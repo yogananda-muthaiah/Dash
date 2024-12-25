@@ -4,6 +4,9 @@ Design and Build Webapps using Dash library - Python
 * https://plotly.com/
 * https://dash.plotly.com/
 
+### Examples
+* https://plotly.com/examples/
+
 ### Usage
 ```
 pip install -r requirements.txt
@@ -21,5 +24,7 @@ pip install wordcloud
 ```
 
 
-### Examples
-* https://plotly.com/examples/
+### SAP BTP Cloud Foundry Deployment
+```
+cf push <appName>
+```
