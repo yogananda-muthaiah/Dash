@@ -8,6 +8,7 @@ Design and Build Webapps using Dash library - Python
 ```
 pip install dash
 pip install data_extensions
+pip install dash-bootstrap-components
 pip install plotly
 
 pip install pandas
