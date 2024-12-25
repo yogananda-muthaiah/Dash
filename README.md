@@ -5,5 +5,11 @@ Design and Build Webapps using Dash library - Python
 * https://dash.plotly.com/
 
 
+```
+pip install dash
+pip install data_extensions
+```
+
+
 ### Examples
 * https://plotly.com/examples/
