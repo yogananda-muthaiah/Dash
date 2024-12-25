@@ -1,1 +1,7 @@
+pip install dash
+pip install data_extensions
+pip install dash-bootstrap-components
+pip install plotly
 
+pip install pandas
+pip install wordcloud
